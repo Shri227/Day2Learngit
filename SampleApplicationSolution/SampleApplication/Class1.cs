@@ -1,7 +1,13 @@
-class Class1{
+using System;
 
-      void printHello()
-      {
-        Console.WriteLine("Add");
-      }
+namespace SampleApplication
+{
+    partial class Program
+    {
+
+        public void printHello()
+        {
+            Console.WriteLine("Add");
+        }
+    }
 }
