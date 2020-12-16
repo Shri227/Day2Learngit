@@ -8,6 +8,7 @@ namespace SampleApplication
         public void printHello()
         {
             Console.WriteLine("Add");
+            Console.WriteLine("Add again");
         }
     }
 }
